@@ -30,15 +30,13 @@ image:
 
 authors:
   - admin
-  - 吳恩達
+  - Isaiah Jones
 
 tags:
-  - Academic
-  - 开源
+  - Isaiah Jones
 
 categories:
   - Demo
-  - 教程
 ---
 
 ```python
