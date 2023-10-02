@@ -60,7 +60,7 @@ sections:
           date_end: '2020-12-31'
           description: |2-
             * Developed and implemented successful investment strategies by replicating research papers utilizing alternative data.
-            * Optimized a methods to analyze market sentiment and help portfolio manager systematically adjust hedge ratios
+            * Built a development tool to optimize market sentiment analysis and help portfolio manager systematically adjust hedge ratios
             * Performed time-series analysis on 30,000+ stock dataset to improve internal risk factors and other measurements of value and profitability
         - title: Software Engineering Intern
           company: Cydeas
@@ -70,8 +70,9 @@ sections:
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: |2-
-            * Developed back-end infrastructure and RESTful APIs for web applications in Clojure deployed in the cloud
+            * Developed RESTful APIs for cloud-deployed web applications
             * Managed several SQL server databases (Postgres) to support the delivery of data in real-time for sales conversions
+            * Designed and developed main landing page optimized for SEO, increasing impressions by 300%
 
     design:
       columns: '2'
@@ -159,8 +160,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Machine Learning
+          tag: Machine Learning
         - name: Other
           tag: Demo
     design:

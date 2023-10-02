@@ -29,6 +29,7 @@ interests:
   - Natural Language Processing
   - Generative AI
   - AI Ethics and Governance
+  - Financial Modeling
 
 # Education to show in About widget
 education:
