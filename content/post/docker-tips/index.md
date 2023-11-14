@@ -39,25 +39,10 @@ categories:
   - Demo
 ---
 
-# List of Useful Commands
+# What is docker?
 
-This page will serve as a living listicule of useful linux commands that I come across and want to remember over time.
+This page will serve as a living document on all of the things I learn about docker across my career as an engineer and as a data scientist. 
 
-`cat`: displays the contents of a file
+So lets get into it! 
 
-`less`: displays the contents of a file in a searchable using `/` 
-
-`scp ijones00@server:/home/usr/filepath/file .`: copies a remote file to the present working directory.
-
-`command_1 | command_2 | ...`: the pipe command allows the stdout of a command to be connected to the stdin of another command
-
-`ls -l`: lists the files located in the present working directory and gives permission and file size information
-
-`ssh ijones00@server.com -X`: starts a ssh connection in headless mode
-
-# VI quick tips
-`vi file.txt`: start a vim instance with given file name
-
-`i`: enables editing mode
-
-`esc + wq`: saves and quits
+Docker is a 

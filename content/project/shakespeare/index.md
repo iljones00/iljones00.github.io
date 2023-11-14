@@ -1,6 +1,6 @@
 ---
 title: Shakespeare-GPT
-summary: Training and tuning GPT-3 to generate Shakespearean sonnets based on a prompt
+summary: Training and tuning GPT-2 to generate Shakespearean sonnets based on a prompt
 tags:
   - Machine Learning
   - Generative AI
@@ -11,7 +11,7 @@ date: "2023-05-27T00:00:00Z"
 external_link: https://github.com/iljones00/Shakespearean-Sonnets-GPT/
 
 image:
-  caption: GPT-3
+  caption: GPT-2
   focal_point: Smart
 links:
   - icon: github

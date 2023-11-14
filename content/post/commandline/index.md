@@ -66,7 +66,7 @@ This page will serve as a living listicule of useful linux commands that I come 
 
 `history > history.txt`: receives the history of the commandline and sends it into a new file named history.txt
 
-``export PATH=`pwd`:$PATH``: adds the current directory to the PATH environment variable
+`export PATH=`pwd`:$PATH`: adds the current directory to the PATH environment variable
 
 
 `ssh ijones00@server.com`: starts a ssh connection
